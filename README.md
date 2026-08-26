@@ -15,6 +15,7 @@ Desenvolvedor em formação | Em busca do primeiro desafio como Dev Junior 🎯
 ### 🚀 Projetos em Destaque
 
 - **[Sistema de Caixa Eletrônico (ATM)](https://github.com/ferreirajoao0/Sistema-de-Caixa-Eletronico):** Aplicação em Java orientada a objetos para simulação de saques, depósitos e consulta de saldo via terminal.
+- **[Simulador de Finanças](https://github.com/ferreirajoao0/Simulador-de-Financas):** Aplicação em Java para simulação de rendimentos do Tesouro Selic, aportes mensais e acompanhamento de meta financeira.
 
 ### 🎯 O que estou estudando no momento
 - Versionamento de código com **Git & GitHub**
