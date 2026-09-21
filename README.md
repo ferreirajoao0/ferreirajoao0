@@ -45,26 +45,25 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Agendamento de Barbearia automatizada</h3>
+      <h3 align="center">📌 Agendamento de Barbearia</h3>
       <p align="center">
         <a href="https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoferreira-dev00&repo=REPOSITORIO_1&theme=dark&color_threshold=E50914" alt="Projeto 1" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Simulador Agendamento Barbearia" />
         </a>
       </p>
-      <p align="center"><em>Descrição do projeto e principais tecnologias utilizadas.</em></p>
+      <p align="center"><em>Sistema desenvolvido para simular e automatizar o agendamento de horários, fluxo de atendimento e gestão de serviços de barbearia.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Projeto 02</h3>
+      <h3 align="center">📌 Em Breve</h3>
       <p align="center">
-        <a href="https://github.com/joaoferreira-dev00">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoferreira-dev00&repo=REPOSITORIO_2&theme=dark&color_threshold=E50914" alt="Projeto 2" />
+        <a href="https://github.com/ferreirajoao0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Projeto 2" />
         </a>
       </p>
-      <p align="center"><em>Descrição do projeto e principais tecnologias utilizadas.</em></p>
+      <p align="center"><em>Novo projeto em desenvolvimento.</em></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 Estatísticas do GitHub
