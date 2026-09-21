@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=200&section=header&text=João%20Ferreira&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Banner Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B0612,100:0D1117&height=150&text=João%20Ferreira&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Back-end%20Júnior&descSize=18&descAlignY=68" width="100%" />
 </p>
 
 <p align="center">
@@ -68,11 +68,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirajoao0&show_icons=true&theme=dark&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajoao0&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirajoao0&theme=dark&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub Streak" />
 </p>
 
@@ -113,5 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B0612,100:0D1117&height=80&section=footer" width="100%" />
 </p>
