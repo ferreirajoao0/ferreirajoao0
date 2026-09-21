@@ -45,7 +45,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Projeto 01</h3>
+      <h3 align="center">📌 Agendamento de Barbearia automatizada</h3>
       <p align="center">
         <a href="https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoferreira-dev00&repo=REPOSITORIO_1&theme=dark&color_threshold=E50914" alt="Projeto 1" />
