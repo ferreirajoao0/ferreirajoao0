@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📌 Projeto 01</h3>
       <p align="center">
-        <a href="https://github.com/joaoferreira-dev00">
+        <a href="https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaoferreira-dev00&repo=REPOSITORIO_1&theme=dark&color_threshold=E50914" alt="Projeto 1" />
         </a>
       </p>
