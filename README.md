@@ -18,6 +18,7 @@ Desenvolvedor em formação | Em busca do primeiro desafio como Dev Junior 🎯
 - **[Simulador de Finanças](https://github.com/ferreirajoao0/Simulador-de-Financas):** Aplicação em Java para simulação de rendimentos do Tesouro Selic, aportes mensais e acompanhamento de meta financeira.
 - **[Gereciador de Cinema](https://github.com/ferreirajoao0/Gerenciador_Cinema):** Aplicação em Java para um Sistema de Gerenciamento de Cinema integrando POO e Matrizes.
 - **[Sistema Escolar](https://github.com/ferreirajoao0/Sistema-Escolar/blob/main/README.md):** Aplicação em Java para um Sistema Escolar, utilizando Arrays e POO.
+- **[Sistema Barbearia](https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia):** Aplicação em Java para um Sistema de Barbearia.
 
 ### O que estou estudando no momento
 - Versionamento de código com **Git & GitHub**
