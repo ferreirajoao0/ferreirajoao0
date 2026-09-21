@@ -1,6 +1,4 @@
-# Olá! Eu sou o João Ferreira 👋
 
-```markdown
 # Olá! Eu sou o João Ferreira 👋
 
 
