@@ -35,7 +35,7 @@
 ### 🏆 Troféus do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=joaoferreira-dev00&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=ferreirajoao0&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -68,31 +68,35 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoferreira-dev00&show_icons=true&theme=dark&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoferreira-dev00&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirajoao0&show_icons=true&theme=dark&title_color=E50914&icon_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirajoao0&layout=compact&theme=dark&title_color=E50914&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoferreira-dev00&theme=dark&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirajoao0&theme=dark&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Gráfico de Atividade
+### 📊 Estatísticas e Métricas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoferreira-dev00&theme=react-dark&bg_color=0D1117&color=E50914&line=E50914&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-E50914?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20APIs-120204?style=for-the-badge&logo=java&logoColor=white" alt="Foco" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linguagens-Java%20%7C%20Node.js%20%7C%20JS-E50914?style=for-the-badge&logo=javascript&logoColor=white" alt="Linguagens" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### 🐍 Snake Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoferreira-dev00/joaoferreira-dev00/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoferreira-dev00/joaoferreira-dev00/output/github-contribution-grid-snake.svg">
-    <img alt="github snake eating contributions" src="https://raw.githubusercontent.com/joaoferreira-dev00/joaoferreira-dev00/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferreirajoao0/ferreirajoao0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferreirajoao0/ferreirajoao0/output/github-contribution-grid-snake.svg">
+    <img alt="github snake eating contributions" src="https://raw.githubusercontent.com/ferreirajoao0/ferreirajoao0/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
