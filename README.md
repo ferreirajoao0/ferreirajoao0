@@ -1,35 +1,27 @@
-
-# Olá! Eu sou o João Ferreira 👋
-
-
-```
-
----
-
-|_  |           (*) |*  |             ()
-
-| | ___   __ _ _    | | ___ _ __ ___ _ _ __ __ _
-
-| |/ _ \ / *` | |   | |/ _ \ '__/ _ \ | '__/ _` |
-/_/ / (*) | (| | |/_/ /  **/ | |  **/ | | | (_| |
-_**/ _**/ _*,*|*|_**/ _**|*|  ___|*|*|  _*,*|
-
-```
-
-> **Desenvolvedor Back-end Jr** apaixonado por construir APIs sólidas e sistemas eficientes.
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Focado+em+Arquitetura+Back-end;Java+%7C+Node.js+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&stroke=E50914&strokeWidth=2&height=180&section=header&text=João%20Ferreira&fontSize=42&fontColor=ffffff&desc=Backend%20Júnior%20•%20APIs%20•%20Bancos%20de%20Dados&descSize=16&descAlign=50&descAlignY=68" alt="Header Banner" />
 </p>
 
----
+<p align="center">
+  <font size="4"><strong>Java | Node.js | MySQL</strong></font>
+</p>
 
-### 📌 Sobre Mim
+<p align="center">
+  <img src="https://profile-counter.glitch.me/joaoferreira-dev00/count.svg" alt="Visitas ao Perfil" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Focado+em+Arquitetura+Back-end;Construindo+APIs+eficientes+e+escal%C3%A1veis" alt="Typing Animation" />
+</p>
+
+<br>
+
+### ✨ Um pouco sobre mim
 
 - 💻 Atualmente atuando como **Dev Back-end Jr**.
 - ☕ Entusiasta do ecossistema **Java** e **Node.js**.
 - 🛢️ Trabalhando com modelagem e otimização de bancos de dados em **MySQL**.
-- 🎯 Buscando evolução contínua em boas práticas de código, clean code e microsserviços.
+- 🎯 Em busca de evolução contínua em boas práticas de código, clean code e arquitetura.
 
 ---
 
@@ -123,7 +115,5 @@ _**/ _**/ _*,*|*|_**/ _**|*|  ___|*|*|  _*,*|
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&stroke=E50914&strokeWidth=1&height=100&section=footer" alt="Rodapé" />
 </p>
-
-```
