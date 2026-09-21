@@ -45,26 +45,25 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Agendamento de Barbearia</h3>
+      <h3 align="center">💈 Agendamento de Barbearia</h3>
       <p align="center">
-        <a href="https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Simulador Agendamento Barbearia" />
+        <a href="https://github.com/ferreirajoao0/Simulador-Agendamento-Barbearia" target="_blank">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Barbearia" />
         </a>
       </p>
       <p align="center"><em>Sistema desenvolvido para simular e automatizar o agendamento de horários, fluxo de atendimento e gestão de serviços de barbearia.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Sistema Escolar</h3>
+      <h3 align="center">📚 Sistema Escolar</h3>
       <p align="center">
-        <a href="https://github.com/ferreirajoao0/Sistema-Escolar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Simulador Escolar" />
+        <a href="https://github.com/ferreirajoao0/Sistema-Escolar" target="_blank">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Sistema Escolar" />
         </a>
       </p>
-<p align="center"><em>Sistema desenvolvido para simular a gestão de cadastramento de alunos, notas e médias, com o objetivo de facilitar o processamento automático de dados e relatórios de alunos.</em></p>
+      <p align="center"><em>Sistema desenvolvido para simular a gestão de cadastro de alunos, notas e médias, com o objetivo de facilitar o processamento automático de dados e relatórios de alunos.</em></p>
     </td>
   </tr>
 </table>
----
 
 ### 📊 Estatísticas do GitHub
 
