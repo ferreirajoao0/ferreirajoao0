@@ -54,13 +54,13 @@
       <p align="center"><em>Sistema desenvolvido para simular e automatizar o agendamento de horários, fluxo de atendimento e gestão de serviços de barbearia.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Em Breve</h3>
+      <h3 align="center">📌 Sistema Escolar</h3>
       <p align="center">
-        <a href="https://github.com/ferreirajoao0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Projeto 2" />
+        <a href="https://github.com/ferreirajoao0/Sistema-Escolar">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferreirajoao0&repo=Simulador-Agendamento-Barbearia&theme=dark&color_threshold=E50914" alt="Simulador Escolar" />
         </a>
       </p>
-      <p align="center"><em>Novo projeto em desenvolvimento.</em></p>
+<p align="center"><em>Sistema desenvolvido para simular a gestão de cadastramento de alunos, notas e médias, com o objetivo de facilitar o processamento automático de dados e relatórios de alunos.</em></p>
     </td>
   </tr>
 </table>
