@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor Back-end Jr</strong> 
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Focado+em+Arquitetura+Back-end;Java+%7C+Node.js+%7C+MySQL;Constru%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing Animation" />
 </p>
 
